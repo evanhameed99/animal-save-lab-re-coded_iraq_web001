@@ -16,7 +16,7 @@ html {
   position: absolute;
   top: 400px;
   right: 0;
-  transition: transform 1s;
+  
 }
 
 /* Write your solution here */
@@ -26,6 +26,6 @@ html {
 
     top: 0;
     transform: rotate(360deg);
-    transition: 0.5s ease;
+  
   }
 }
